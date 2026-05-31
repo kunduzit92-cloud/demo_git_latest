@@ -1,0 +1,10 @@
+package qa.testcases;
+
+public class NewTestCaseForGitDemo {
+
+    public static void main(String[] args) {
+        System.out.println(" new test to push to repo");
+        System.out.println("  testgit status");
+    }
+}
+
