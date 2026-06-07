@@ -9,5 +9,9 @@ public class NewTestCaseForGitDemo {
         System.out.println("new code");
         System.out.println("123");
     }
+
+    public void commit1(){
+        System.out.println("New commit");
+    }
 }
 
