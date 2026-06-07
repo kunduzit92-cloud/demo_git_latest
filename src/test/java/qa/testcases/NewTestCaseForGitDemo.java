@@ -13,5 +13,9 @@ public class NewTestCaseForGitDemo {
     public void commit1(){
         System.out.println("New commit");
     }
+
+    public void createdNewMethodForBranching(){
+        System.out.println("Code using branching1");
+    }
 }
 
