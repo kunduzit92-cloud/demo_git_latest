@@ -1,0 +1,5 @@
+qa/utils/ReadPropertyFile.class
+qa/testcases/MyFirstTest.class
+qa/utils/ReadXLSdata.class
+qa/base/BaseTest.class
+qa/testcases/DraftMyFirstTestCse.class
